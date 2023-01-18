@@ -1,0 +1,2 @@
+function e(e,n,o,t){Object.defineProperty(e,n,{get:o,set:t,enumerable:!0,configurable:!0})}var n={};e(n,"fetchAllUsers",(function(){return o})),e(n,"fetchUserById",(function(){return t})),e(n,"updateUserById",(function(){return r})),e(n,"x",(function(){return c})),e(n,"y",(function(){return u}));const o=()=>{console.log("fetchAllUsers")},t=e=>{console.log("fetchUserById")},r=e=>{console.log("updateUserById")},c=5,u="mango";console.log(n);
+//# sourceMappingURL=index.4f7037aa.js.map

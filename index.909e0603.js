@@ -1,0 +1,2 @@
+!function(){function n(n,e,o,t){Object.defineProperty(n,e,{get:o,set:t,enumerable:!0,configurable:!0})}var e={};n(e,"fetchAllUsers",(function(){return o})),n(e,"fetchUserById",(function(){return t})),n(e,"updateUserById",(function(){return r})),n(e,"x",(function(){return c})),n(e,"y",(function(){return u}));var o=function(){console.log("fetchAllUsers")},t=function(n){console.log("fetchUserById")},r=function(n){console.log("updateUserById")},c=5,u="mango";console.log(e)}();
+//# sourceMappingURL=index.909e0603.js.map
